@@ -1,9 +1,10 @@
 {
+	"author": "Brian Raats",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Jane Doe",
+	
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
